@@ -6,4 +6,4 @@ Welcome! This is the repository for PolluxOS, a series of [TurboWarp](https://gi
 
 ## Getting around
 
-The .sb3 files for each version of the OS publicly released so far can be found under `/sb3/v1x`.
+The .sb3 files for each public version of the OS can be found in `/sb3/v1x`.
