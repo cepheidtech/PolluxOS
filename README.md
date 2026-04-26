@@ -6,4 +6,10 @@ Welcome! This is the repository for PolluxOS, a series of [TurboWarp](https://gi
 
 ## Getting around
 
-The .sb3 files for each public version of the OS can be found in `/sb3/v1x`.
+`sb3` has the .sb3 files for each public version:
+- `sb3/v1x` for the v1.x releases
+- `sb3/preview` for the October 2023 preview.
+
+PolluxOS saw many small hotfixes during its lifetime in addition to the major point releases. To avoid unnecessary duplication, this repo only has the latest hotfix for each, except the August 2025 hotfix for version 1.5 (`pollux1.5_hotfix1.sb3`).
+
+As of writing, the latest version is `pollux1.5_hotfix2.sb3`.
